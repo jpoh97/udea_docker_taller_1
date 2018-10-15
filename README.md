@@ -19,6 +19,18 @@ Solucion
 ---------
 [Docker Hub Link](https://hub.docker.com/r/jpoh97/udea_tarea1/ "jpoh97 docker hub")
 
+docker build: 
+![alt text](https://github.com/jpoh97/udea_docker_taller_1/blob/master/dockerfile-tarea-1/evidences/Docker%20build.PNG "docker build")
+
+docker run: 
+![alt text](https://github.com/jpoh97/udea_docker_taller_1/blob/master/dockerfile-tarea-1/evidences/Docker%20run.PNG "docker run")
+
+docker run from dockerhub: 
+![alt text](https://github.com/jpoh97/udea_docker_taller_1/blob/master/dockerfile-tarea-1/evidences/Docker%20run%20from%20dockerhub.PNG "docker run from dockerhub")
+
+app running: 
+![alt text](https://github.com/jpoh97/udea_docker_taller_1/blob/master/dockerfile-tarea-1/evidences/Running.PNG "nodejs app running")
+
 dockerfile-tarea-2
 ---------
 
