@@ -15,6 +15,9 @@ El objetivo de esta tarea es entonces :
 4. Ejecutar la aplicacion y mostar evidencia de su ejecucion y correcto funcionamiento
 5. Subir a un repositorio github personal, el archivo Dockerfile asi como evidencia de la correcta ejecucion de la aplicacion.
 
+Solucion
+---------
+[Docker Hub Link](https://hub.docker.com/r/jpoh97/udea_tarea1/ "jpoh97 docker hub")
 
 dockerfile-tarea-2
 ---------
